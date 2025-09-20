@@ -22,6 +22,7 @@ This system detects faces, marks attendance automatically, and displays real-tim
 * **Tkinter / CustomTkinter** (for modern GUI)
 * **OpenCV** (for face recognition)
 * **MySQL** (for data storage)
+* **CNN** (Prediction Model)
 
 ---
 
